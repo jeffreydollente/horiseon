@@ -5,4 +5,4 @@ The first link "Search Engine Optimization" had to be linked to its designated s
 Running Tests - After git commit - git push - i would open the html file to the browser with my developer tools open - developer tools helps show the errors with the code and css.
 
 Link to deploy website: https://jeffreydollente.github.io/horiseon/
-screenshot - [Alt text] (/relative/path/to/img.png])
+screenshot - ![image](https://user-images.githubusercontent.com/65271687/82766220-0f15c780-9dd2-11ea-8e12-c82cddf8cd16.png)
